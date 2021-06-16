@@ -1,0 +1,18 @@
+form{
+  width: 100%;
+  margin: 50px;
+  justify-content: center;
+}
+.form label{
+  display: block;
+}
+.form .name,
+.form .email,
+.form .add{
+  float: left;
+  margin-right: 10px;
+}
+.form .add{
+  margin-top: 22px;
+}
+
